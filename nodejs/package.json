@@ -1,0 +1,14 @@
+{
+  "name": "alman_hesabi",
+  "version": "1.0.0",
+  "description": "Alman Hesabı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa ÖZKAN",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
